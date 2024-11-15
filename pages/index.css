@@ -3,9 +3,4 @@
     font-size: 16px;
     line-height: 20px;
     min-width: 1100px;
-    max-width: 1600px;
-    @media screen {
-        max-width: 1600px;
-        margin: 0 auto;
-    }
-}
+    max-width: 1600px;}
