@@ -12,7 +12,7 @@
 
 .menu__title {
     margin: 0 0 24px;
-    font-family: "Inter" arial, "sans-serir";
+    font-family: "Inter", arial, "sans-serir";
     font-style: normal;
     font-weight: 500;
     font-size: 44px;
@@ -21,11 +21,13 @@
 
 .menu__subtitle {
     margin: 0 0 100px;
-    font-family: "Noto Serif" inter, arial;
+    font-family: "Noto Serif", inter, arial;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
     line-height: 30px;
+    max-width: 780px;
+    text-align: center;
 }
 
 .menu__cards {

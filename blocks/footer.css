@@ -15,10 +15,6 @@
     height: 39px;
 }
 
-.footer__column-heading {
-    margin: 0 0 20px;
-}
-
 .footer__list {
     margin: 0;
     padding: 0;
@@ -60,7 +56,7 @@
     line-height: 20px;
 }
 
-.social-heading {
+.footer__social-heading {
     font-family: "Inter", Arial, "Sans-serif";
     font-style: normal;
     font-weight: bold;
